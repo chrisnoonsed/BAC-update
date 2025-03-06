@@ -17,4 +17,10 @@
         "alcoholContent": 13.0,
         "volume": 5.0
     }
+    {
+        "name": "Merlot",
+        "type": "Wine",
+        "alcoholContent": 14.0,
+        "volume": 5.0
+    }
 ]
