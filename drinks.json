@@ -1,26 +1,29 @@
-[
-    {
-        "name": "Jack Daniels",
-        "type": "Liquor",
-        "alcoholContent": 40.0,
-        "volume": 1.5
-    },
-    {
-        "name": "Heineken",
-        "type": "Beer",
-        "alcoholContent": 5.0,
-        "volume": 12.0
-    },
-    {
-        "name": "Cabernet Sauvignon",
-        "type": "Wine",
-        "alcoholContent": 13.0,
-        "volume": 5.0
-    },
-    {
-        "name": "Pinot Noir",
-        "type": "Wine",
-        "alcoholContent": 14.0,
-        "volume": 5.0
-    }
-]
+{
+    "auth": "BAC-UPDATE-2025",
+    "drinks": [
+        {
+            "name": "Jack Daniels",
+            "type": "Liquor",
+            "alcoholContent": 40.0,
+            "volume": 1.5
+        },
+        {
+            "name": "Heineken",
+            "type": "Beer",
+            "alcoholContent": 5.0,
+            "volume": 12.0
+        },
+        {
+            "name": "Cabernet Sauvignon",
+            "type": "Wine",
+            "alcoholContent": 13.0,
+            "volume": 5.0
+        },
+        {
+            "name": "Pinot Noir",
+            "type": "Wine",
+            "alcoholContent": 14.0,
+            "volume": 5.0
+        }
+    ]
+}
