@@ -8,6 +8,12 @@
             "volume": 1.5
         },
         {
+            "name": "Johnny Walker Black",
+            "type": "Liquor",
+            "alcoholContent": 40.0,
+            "volume": 1.5
+        },
+        {
             "name": "Heineken",
             "type": "Beer",
             "alcoholContent": 5.0,
