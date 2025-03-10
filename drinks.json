@@ -2,28 +2,24 @@
     "auth": "BAC-UPDATE-2025",
     "drinks": [
         {
-            "id": 626925937633123647
             "name": "Jack Daniels",
             "type": "Liquor",
             "alcoholContent": 40.0,
             "volume": 1.5
         },
         {
-            "id": 245000212108899696
             "name": "Johnny Walker Black",
             "type": "Liquor",
             "alcoholContent": 40.0,
             "volume": 1.5
         },
         {
-            "id": 772737487414440905
             "name": "Heineken",
             "type": "Beer",
             "alcoholContent": 5.0,
             "volume": 12.0
         },
         {
-            "id": 231186983965536849
             "name": "Cabernet Sauvignon",
             "type": "Wine",
             "alcoholContent": 13.0,
