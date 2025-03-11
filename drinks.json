@@ -2,30 +2,35 @@
     "auth": "BAC-UPDATE-2025",
     "drinks": [
         {
-            "name": "Jack Daniels",
+            "brand": "Jack Daniels",
+            "name": "Tennessee whiskey",
             "type": "Liquor",
             "alcoholContent": 40.0,
             "volume": 1.5
         },
         {
-            "name": "Johnny Walker Black",
+            "brand": "Johnny Walker",
+            "name": "Black",
             "type": "Liquor",
             "alcoholContent": 40.0,
             "volume": 1.5
         },
         {
-            "name": "Heineken",
+            "brand": "Heineken",
+            "name": "Lager",
             "type": "Beer",
             "alcoholContent": 5.0,
             "volume": 12.0
         },
         {
-            "name": "Heineken",
+            "brand": "Budweiser",
+            "name": "Bud Lite",
             "type": "Beer",
             "alcoholContent": 5.0,
             "volume": 22.0
         },
         {
+            "brand": "Winking Owl",
             "name": "Cabernet Sauvignon",
             "type": "Wine",
             "alcoholContent": 13.0,
